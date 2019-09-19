@@ -1,0 +1,20 @@
+.add
+{
+    background-image: url('../../../imags/acciones/add.gif') !important;
+}
+.del
+{
+    background-image: url('../../../imags/acciones/delete.gif') !important;
+}
+.edit
+{
+    background-image: url('../../../imags/acciones/edit.gif') !important;
+}
+.apagar
+{
+    background-image: url('../../../imags/acciones/apagar.gif') !important;
+}
+.persona
+{background-image: url('../../../imags/persona.png') !important;}
+.salvar
+{background-image: url('../../../imags/acciones/save.gif') !important;}

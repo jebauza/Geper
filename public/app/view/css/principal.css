@@ -1,0 +1,81 @@
+/*!
+ * Ext JS Library 3.2.1
+ * Copyright(c) 2006-2010 Ext JS, Inc.
+ * licensing@extjs.com
+ * http://www.extjs.com/license
+ */
+
+a {
+    color:#15428B;
+}
+a:link, a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.header {
+    background: #7F99BE url(../../../imags/images/layout-browser-hd-bg.gif) repeat-x center;
+}
+.header h1 {
+    font-size: 16px;
+    color: #fff;
+    font-weight: normal;
+    padding: 5px 10px;
+}
+
+.detail-img
+{
+    margin-left: 40px;
+    border: 2px solid #007ea9;
+    border-radius: 5px;
+    width: 150px;
+    height: 150px;
+}
+
+.form-img
+{
+    border-radius: 5px;
+    width: 120px;
+    height: 80px;
+    margin-right: 10px;
+}
+
+ .x-btn-large .x-btn-text {
+
+    width: 100px;
+
+}
+#filex-file{
+    height: 80px;
+}
+.x-btn.x-form-file-btn
+{
+    margin-right: 10px;
+}
+
+ .details-info {
+    border-top: 1px solid #cccccc;
+    font: 11px Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+    padding-top: 5px;
+    text-align: left;
+}
+ .details-info b{
+    color: #555555;
+    display: block;
+    margin-bottom: 4px;
+}
+ .details-info span{
+    display: block;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+ .column-style
+ {
+     margin-right:5px ;
+ }
+ .btn-file{
+     width: 100px;
+ }
+
